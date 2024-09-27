@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+    background-image: url(imagens/index.jpg);
+    background-repeat: no-repeat;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+}
+
+.barra{
+    position: relative;
+    top: 900px;
+    left: 915px;
+}
+
+.barra2{
+    position: relative;
+    top: 950px;
+    left: 915px;
+}
+
+
+.entrar{
+    position: relative;
+    top: 875px;
+    left: 930px;
+}
+
+.cadastro{
+    position: relative;
+    top: 920px;
+    left: 915px;
+}

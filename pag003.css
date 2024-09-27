@@ -1,0 +1,16 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(imagens/pag003.png);
+}
+
+a{
+    text-decoration: none;
+}
+
+.confirmar{
+    position: relative;
+    top: 840px;
+    left: 590px;
+    font-size: 30px;
+}
